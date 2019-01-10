@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">위스퍼 사전</string>
+    <string name="foreignWordForeign">한국어</string>
+    <string name="wordEnglish">영어</string>
+    <string name="wordEnglishWords">영단어</string>
+    <string name="wordMeans">뜻</string>
+    <string name="wordVocabulary">단어장</string>
+    <string name="wordAddWord">단어 추가</string>
+    <string name="wordPlay">재생</string>
+    <string name="wordInsert">삽입</string>
+    <string name="wordWarning">경고</string>
+    <string name="sentenceAskQuit">정말 종료하시겠습니까?</string>
+    <string name="sentenceAlreadyExistMean" formatted="false">단어 \'%s\' 는 이미 뜻 %s으로 등록되었습니다. 그래도 이 단어를 뜻 \'%s\'를 추가하시겠습니까?</string>
+    <string name="sentenceDuplicatedWordAndMean" formatted="false">단어 \'%s\'와 뜻 \'%s\'은 이미 등록되었습니다.</string>
+    <string name="wordError">오류</string>
+    <string name="wordPause">중지</string>
+    <string name="sentenceAskRemoveWord" formatted="false">정말로 단어 \'%s\' (뜻:\'%s\')을 제거하시겠습니까?</string>
+    <string name="wordWordExam">단어 시험</string>
+    <string name="wordInsertOneWord">한 단어 추가</string>
+    <string name="wordInsertFromReadAFile">파일을 읽어와서 추가</string>
+    <string name="wordLoad">불러오기</string>
+    <string name="wordCopyToClipboard">클립보드에 복사</string>
+    <string name="wordActive">활성화</string>
+    <string name="wordDeactive">비활성화</string>
+    <string name="wordRemove">삭제</string>
+    <string name="wordBack">뒤로</string>
+    <string name="sentenceWhatDoYouDoFor" formatted="false">\'%s\' : \'%s\'에게 무엇을 하시겠습니까?</string>
+    <string name="wordCertain">확실</string>
+    <string name="wordSubmit">제출</string>
+    <string name="sentenceInsertWord01">영단어를 써주세요.</string>
+    <string name="sentenceInsertWord02">뜻을 써주세요.</string>
+    <string name="sentenceInsertWord03">추가 완료.</string>
+    <string name="sentenceInsertWord04">삭제 완료.</string>
+    <string name="sentenceInsertWord05">등록되지 않는 단어입니다.</string>
+    <string name="sentenceInsertWord06" formatted="false">\'%s\' : \'%s\' 추가 완료.</string>
+    <string name="wordPass">통과</string>
+    <string name="wordReleaseAnswer">정답 공개</string>
+    <string name="sentenceCorrectEnglishExam01">시험이 끝났습니다.</string>
+    <string name="wordMilliSecond">밀리초</string>
+    <string name="wordMilliSeconds">밀리초</string>
+    <string name="wordSecond">초</string>
+    <string name="wordSeconds">초</string>
+    <string name="wordMinute">분</string>
+    <string name="wordMinutes">분</string>
+    <string name="wordHour">시</string>
+    <string name="wordHours">시</string>
+    <string name="wordDay">일</string>
+    <string name="wordDays">일</string>
+    <string name="wordWeek">주</string>
+    <string name="wordWeeks">주</string>
+    <string name="wordMonth">개월</string>
+    <string name="wordMonths">개월</string>
+    <string name="wordYear">년</string>
+    <string name="wordYears">년</string>
+    <string name="wordUnknown">알 수 없음</string>
+    <string name="sentenseAfter" formatted="false">%s 후</string>
+    <string name="sentenseBefore" formatted="false">%s 전</string>
+    <string name="wordScore">점수</string>
+    <string name="sentenceCorrectEnglishExam02">정답입니다.</string>
+    <string name="sentenceCorrectEnglishExam03">땡! 틀렸습니다.</string>
+    <string name="sentenceCorrectEnglishExam04">맞을수도 있고 아닐수도 있습니다.</string>
+</resources>

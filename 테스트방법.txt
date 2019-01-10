@@ -1,0 +1,14 @@
+﻿1. 안드로이드 스튜디오 설치
+https://developer.android.com/studio/install?hl=ko
+
+2. 안드로이드 스튜디오 실행하여 프로젝트 열기
+
+3. 테스트에 사용할 안드로이드 디바이스에서 USB 디버깅 설정
+https://www.google.com/search?ei=uzkiW4aXBMOL8wWIwbmgDw&q=%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+usb+%EB%8B%A4%EB%B2%84%EA%B9%85&oq=%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+usb+%EB%8B%A4%EB%B2%84%EA%B9%85&gs_l=psy-ab.3...9371.10759.0.10937.15.11.0.0.0.0.273.996.1j5j1.7.0....0...1c.1j4.64.psy-ab..13.0.0....0.PLq7ayEd_R8
+
+4. 상단의 메뉴 -> Run -> Run 'app' 또는 Debug 'app' 클릭
+
+실행만 해보실거라면 같이 첨부한 apk 파일로 설치하셔도 됩니다.
+
+소스 위치 : 프로젝트 폴더\app\src\main\java\hamoney9409\...
+리소스 위치 : 프로젝트 폴더\app\src\main\res\layout\...

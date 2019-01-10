@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Whisper Dictionary</string>
+    <string name="wordEnglish">English</string>
+    <string name="wordEnglishWords">Eng. words</string>
+    <string name="foreignWordForeign">English</string>
+    <string name="wordMeans">means</string>
+    <string name="wordVocabulary">Vocabulary</string>
+    <string name="wordAddWord">Add word</string>
+    <string name="wordPlay">Play</string>
+    <string name="wordInsert">Insert</string>
+    <string name="wordWarning">Warning</string>
+    <string name="sentenceAskQuit">Are you really want to quit?</string>
+    <string name="sentenceAlreadyExistMean" formatted="false">Word \'%s\' already exist with mean %s. are you really want to insert mean \'%s\' in this word?</string>
+    <string name="sentenceDuplicatedWordAndMean" formatted="false">Word \'%s\' and mean \'%s\' already exist.</string>
+    <string name="wordError">Error</string>
+    <string name="wordPause">Pause</string>
+    <string name="sentenceAskRemoveWord" formatted="false">Are you really want to remove word \'%s\' (mean:\'%s\')?</string>
+    <string name="wordWordExam">Word Exam</string>
+    <string name="wordInsertOneWord">Insert one word</string>
+    <string name="wordInsertFromReadAFile">Insert from read a file</string>
+    <string name="wordLoad">Load</string>
+    <string name="wordCopyToClipboard">Copy to Clipboard</string>
+    <string name="wordActive">Active</string>
+    <string name="wordDeactive">Deactive</string>
+    <string name="wordRemove">Remove</string>
+    <string name="wordBack">Back</string>
+    <string name="sentenceWhatDoYouDoFor" formatted="false">what do you do for \'%s\' : \'%s\'?</string>
+    <string name="wordCertain">Certain</string>
+    <string name="wordSubmit">Submit</string>
+    <string name="sentenceInsertWord01">Please input the english word.</string>
+    <string name="sentenceInsertWord02">Please input the mean.</string>
+    <string name="sentenceInsertWord03">Insert Completed.</string>
+    <string name="sentenceInsertWord04">Remove Completed.</string>
+    <string name="sentenceInsertWord05">That word is not registered.</string>
+    <string name="sentenceInsertWord06" formatted="false">Insert  \'%s\' : \'%s\' Completed.</string>
+    <string name="wordPass">Pass</string>
+    <string name="wordReleaseAnswer">Release Answer</string>
+    <string name="sentenceCorrectEnglishExam01">Exam is finished.</string>
+    <string name="wordMilliSecond">MilliSecond</string>
+    <string name="wordMilliSeconds">MilliSeconds</string>
+    <string name="wordSecond">Second</string>
+    <string name="wordSeconds">Seconds</string>
+    <string name="wordMinute">Minute</string>
+    <string name="wordMinutes">Minutes</string>
+    <string name="wordHour">Hour</string>
+    <string name="wordHours">Hours</string>
+    <string name="wordDay">Day</string>
+    <string name="wordDays">Days</string>
+    <string name="wordWeek">Week</string>
+    <string name="wordWeeks">Weeks</string>
+    <string name="wordMonth">Month</string>
+    <string name="wordMonths">Months</string>
+    <string name="wordYear">Year</string>
+    <string name="wordYears">Years</string>
+    <string name="wordUnknown">Unknown</string>
+    <string name="sentenseAfter" formatted="false">After %s</string>
+    <string name="sentenseBefore" formatted="false">Before %s</string>
+    <string name="wordScore">Score</string>
+    <string name="sentenceCorrectEnglishExam02">Correct answer.</string>
+    <string name="sentenceCorrectEnglishExam03">Incorrect answer.</string>
+    <string name="sentenceCorrectEnglishExam04">Both correct and incorrect answer.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
